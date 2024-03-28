@@ -33,5 +33,15 @@ int main()
 {
     //output
     printf("Hello world!\n");
+	//Creates a horizontal tab \t
+	printf("\tHello World");
+	//To insert a new line \n
+	printf("\nHello World\n");
+/* 
+    \\ - (single line comment)
+    \* *\ (multiline comment)
+    
+*/
+
     return 0;
 }
